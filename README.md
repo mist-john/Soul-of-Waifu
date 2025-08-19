@@ -4,19 +4,8 @@
 
 <br>
 
-<p align="center">
-  <b>🌟 Bring your Waifu to life with <a href="https://github.com/jofizcd/Soul-of-Waifu">Soul of Waifu</a> 🌟</b><br>
-  <i>Experience the magic of AI-powered companions with emotions, voice, and personality.</i>
-</p>
 
 <br>
-
-<p align="center">
-  <a href="https://www.youtube.com/@jofizcd"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-  <a href="https://t.me/+UOWReJ5WlTAwOTk6"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://discord.com/invite/6vFtQGVfxM"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/jofizcd"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
 
 <div align="center">
     <img src="https://count.getloli.com/get/@Soul-of-Waifu?theme=rule34" /><br>
