@@ -114,26 +114,4 @@ Support for three voice synthesis engines:
   <div align="center"> Thank you for being part of this journey and using Soul of Waifu! Together, we’re making AI interactions more immersive and creative. </div>
 </p>
 
-### 🤝 Support
-- [**Donation Link**](https://www.donationalerts.com/r/jofizcd) — Donate in the name of neural networks! 🤖
 
-### 📊 Stats <br>
-
-<div align="center"><img src="https://api.star-history.com/svg?repos=jofizcd/Soul-of-Waifu&type=Date"/></div><br>
-
-## 👾 | Developer
-
-<div align="center">
-  <img src="https://i.ibb.co/bgx4T3Dd/Av.jpg" width="150" style="border-radius: 50%; margin: 10px 0;" />
-  <h3>Jofi</h3>
-  <p>I focus on things that I find interesting, and in particular, I’m passionate about the field of artificial intelligence. 🧠✨</p>
-  <a href="https://www.youtube.com/@jofizcd"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-  <a href="https://discord.com/invite/6vFtQGVfxM"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/jofizcd"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
-
----
-
-## 📃 | License
-This project is distributed under the GPL v3 License. <br><br>
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
