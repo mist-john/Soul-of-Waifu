@@ -107,9 +107,7 @@ Support for three voice synthesis engines:
   
   - 🛠 Need Help or Have Ideas? <br>
   Join our Discord community, where AI enthusiasts like you collaborate, share feedback, and help shape the future of Soul of Waifu. <br>
-  
-  <div align="center"><a href="https://discord.com/invite/6vFtQGVfxM"><img src="https://discordapp.com/api/guilds/925841922264801311/widget.png?style=banner2"/></a></div><br>
-  
+
   
   <div align="center"> Thank you for being part of this journey and using Soul of Waifu! Together, we’re making AI interactions more immersive and creative. </div>
 </p>
